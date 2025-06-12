@@ -5,6 +5,7 @@ __pycache__/
 # Výstupy
 quotes.csv
 quotes.json
+realpython_articles.csv
 
 
 # VS Code
