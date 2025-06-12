@@ -30,3 +30,8 @@ https://daily-aivey.github.io/quotes-scraper/
    ```bash
    git clone https://github.com/daily-aivey/quotes-scraper.git
    cd quotes-scraper
+   ```
+2. **Install dependencies**  
+   ```bash
+   pip install -r requirements.txt
+   ```
