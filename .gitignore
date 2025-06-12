@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Výstupy
+quotes.csv
+quotes.json
+quotes.html
+
+# VS Code
+.vscode/
+
+# Logy
+*.log
+.DS_Store
